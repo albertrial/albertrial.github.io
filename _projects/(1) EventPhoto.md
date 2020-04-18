@@ -1,7 +1,7 @@
 ---
 name: EventPhoto
 tools: [Android, Java, XML, Material Design]
-image: ../assets/eventphoto/logo_eventphoto.png
+image: /assets/img/eventphoto/logo_eventphoto.png
 description: Android application that allows event organizers and attendees to upload and gather photographs taken by all participants.
 ---
 
@@ -16,10 +16,10 @@ participants take. This service is intended to offer both features of social
 networks (comments between users, likes, etc.) and storage services (download
 photographs, access them at any time, etc.).
 
-![preview](../assets/eventphoto/preview_1.png)
+![preview](/assets/img/eventphoto/preview_1.png)
 
-![preview_2](../assets/eventphoto/preview_2.png)
+![preview_2](/assets/img/eventphoto/preview_2.png)
 
 The application follows the Material Design standards provided by Google and it was developed using the Scrum agile methodology.
 
-![preview_3](../assets/eventphoto/preview_3.png)
+![preview_3](/assets/img/eventphoto/preview_3.png)
