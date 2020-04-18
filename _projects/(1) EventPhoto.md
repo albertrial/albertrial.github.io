@@ -10,13 +10,16 @@ description: Android application that allows event organizers and attendees to u
 Nowadays everyone has a smartphone with an integrated camera.
 Therefore, in the events we attend, hundreds of photographs are made, but all of them with different devices.
 This makes the task of gathering them all very difficult.
+
 For this reason, in this project I developed an application that allows both the
 event organizers and the attendees to upload and gather the photographs that all the
-participants take. This service is intended to offer both features of social
-networks (comments between users, likes, etc.) and storage services (download
-photographs, access them at any time, etc.).
+participants take.
 
 ![preview](/assets/img/eventphoto/preview_1.png)
+
+This service is intended to offer both features of social
+networks (comments between users, likes, etc.) and storage services (download
+photographs, access them at any time, etc.).
 
 ![preview_2](/assets/img/eventphoto/preview_2.png)
 
