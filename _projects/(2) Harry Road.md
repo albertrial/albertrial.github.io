@@ -1,8 +1,8 @@
 ---
 name: Harry Road
 tools: [Unity, C#, Game Development]
-image: /assets/img/harry-road/log.png
-description: Android application that allows event organizers and attendees to upload and gather photographs taken by all participants.
+image: /assets/img/harry-road/logo.png
+description: Desktop endless frogger videogame, developed together with **Jordi Simon** and based on Harry Potter saga.
 ---
 
 # Harry Road
@@ -17,5 +17,4 @@ The objective of the game is to cross the endless scenarios and avoid all the ob
 
 Go as far as possible, unlock all characters and levels, and become the best magician of all time!
 
-![preview_3](/assets/img/harry-road/preview_3.png)
-![preview_4](/assets/img/harry-road/preview_4.png)
+![preview_3](/assets/img/harry-road/preview_3.png) ![preview_4](/assets/img/harry-road/preview_4.png)
