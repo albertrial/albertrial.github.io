@@ -1,7 +1,11 @@
 ### Site Settings ###
 title               : Albert Rial's web page
 description         : >-
-                      "Software developer, Machine learning engineer, Researcher, Basketball player."
+                      "Software developer, AI student and engineer, cybersecurity expert,
+                      music and videogames lover, basketball player and enthusiastic of
+                      so many other things I cannot fit into a short description.
+                      Trying to enjoy life with my family and friends and make a positive
+                      impact on society."
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : "albertrial/albertrial.github.io"     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
