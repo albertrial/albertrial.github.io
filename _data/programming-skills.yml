@@ -12,8 +12,8 @@
 
 - name: Tensorflow
   percentage: 60
-  color: 1db954
+  color: orange
 
 - name: Pytorch
   percentage: 60
-  color: ff8800
+  color: green
