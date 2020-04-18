@@ -1,5 +1,5 @@
 - name: C++
-  percentage: 90
+  percentage: 95
   color: danger
 
 - name: Python
@@ -12,8 +12,8 @@
 
 - name: Tensorflow
   percentage: 60
-  color: orange
+  color: warning
 
 - name: Pytorch
   percentage: 60
-  color: green
+  color: success
