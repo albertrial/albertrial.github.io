@@ -2,7 +2,7 @@
 name: Harry Road
 tools: [Unity, C#, Game Development]
 image: /assets/img/harry-road/logo.png
-description: Desktop endless frogger videogame, developed together with **Jordi Simon** and based on Harry Potter saga.
+description: Desktop endless frogger videogame based on Harry Potter saga.
 ---
 
 # Harry Road
