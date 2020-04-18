@@ -25,14 +25,14 @@ I am a computer scientist specialised in Software development, Cybersecurity and
 {% include about/skills.html source=site.data.programming-skills %}
 </div>
 
-Knowledge of many other languages, frameworks or programming skills: C, HTML, CSS, SQL, Android development,...
+- Knowledge of many other languages, frameworks or programming skills: C, HTML, CSS, SQL, Android development,...
 
-In-depth knowledge in AI aspects such as machine learning, computer vision, big data, deep learning, multi-agent systems and natural language processing.
+- In-depth knowledge in AI aspects such as machine learning, computer vision, big data, deep learning, multi-agent systems and natural language processing.
 
-Cybsecurity expert: risk analysis, pentesting, forensics and malware analysis.
+- Cybsecurity expert: risk analysis, pentesting, forensics and malware analysis.
 
-Linux systems administration
+- Linux systems administration
 
-Use of tools for software development (Git, Jira, Jenkins, ...)
+- Use of tools for software development (Git, Jira, Jenkins, ...)
 
-Knowledge of agile methodologies (Scrum, Kanban, XP)
+- Knowledge of agile methodologies (Scrum, Kanban, XP)
