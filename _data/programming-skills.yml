@@ -1,11 +1,19 @@
-- name: HTML5/CSS3
+- name: C++
   percentage: 90
   color: danger
 
-- name: Go
-  percentage: 80
+- name: Python
+  percentage: 85
   color:
 
-- name: Python
-  percentage: 70
+- name: Java
+  percentage: 85
   color: dark
+
+- name: Tensorflow
+  percentage: 65
+  color:
+
+- name: Pytorch
+  percentage: 60
+  color:
