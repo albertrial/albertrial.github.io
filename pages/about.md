@@ -21,9 +21,9 @@ I am a computer scientist specialised in software development, cybersecurity and
 </div>
 
 ## **Technical skills**
-<div class="row">
+<!--<div class="row">
 {% include about/skills.html source=site.data.programming-skills %}
-</div>
+</div>-->
 
 - Strong knowledge of **C++** and excellent understanding of computer science fundamentals, algorithms, data structures and software architecture patterns.
 
