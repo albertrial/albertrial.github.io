@@ -8,7 +8,7 @@ weight: 3
 # **About Me**
 
 Hi there! I am **{{ site.author.name }}** :wave:,<br>
-I am a computer scientist specialised in Software development, Cybersecurity and Artificial Intelligence. The latter is where I am now focusing my carrer and the one in which I am more interested. I consider myself a responsible person with special love for challenges. I always try to do my best in everything I do.
+I am a computer scientist specialised in software development, cybersecurity and artificial intelligence, with special interest in computer vision, autonomous vehicles, aeronautics and space exploration. I consider myself a responsible person, with the ability to learn and adapt quickly. I love challenges, enjoy getting things done and always try to do my best in everything I do.
 
 ## **Professional experience**
 <div class="row">
