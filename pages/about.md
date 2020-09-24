@@ -20,19 +20,33 @@ I am a computer scientist specialised in Software development, Cybersecurity and
 {% include about/education-timeline.html %}
 </div>
 
-## **Skills**
+## **Technical skills**
 <div class="row">
 {% include about/skills.html source=site.data.programming-skills %}
 </div>
 
-- Advanced level in many other languages, frameworks and programming skills: **C**, **HTML**, **CSS**, **SQL**, **Android development**, ...
+- Strong knowledge of **C++** and excellent understanding of computer science fundamentals, algorithms, data structures and software architecture patterns.
 
-- In-depth knowledge in AI aspects such as **machine learning**, **computer vision**, **big data**, **deep learning**, **multi-agent systems** and **natural language processing**.
+- Strong knowledge of **Python** with a focus on the development of machine learning and data analysis solutions.
 
-- **Cybsecurity** advanced skills: **risk analysis**, **pentesting**, **forensics** and **malware analysis**.
+- Experience with **machine-learning frameworks** such as TensorFlow and PyTorch.
 
-- Linux **systems administration**
+- Broad expertise in different **AI** aspects: Computer Vision, Deep Learning, Multi-Agent Systems and Natural Language Processing.
 
-- Use of **tools** for software development (**Git**, **Jira**, **Jenkins**, ...)
+- **Cybersecurity** advanced skills: pentesting, forensics, malware analysis, intrusion detection and risk analysis. Ability to develop secure software applications.
 
-- Knowledge of **agile** methodologies (**Scrum**, **Kanban**, **XP**)
+- Experienced working in **SCRUM** teams and advocate of **Unit testing** as a way to deliver good software.
+
+- Experience with **software development tools** such as Git, Jira and Jenkins.
+
+- Fair knowledge of **other programming technologies/languages/frameworks**: Java, Matlab, Android development and Game development.
+
+## **Soft skills**
+
+- Strong **problem solving and troubleshooting** skills.
+
+- Good **interpersonal and communication skills** with effective listening capability: a team player and collaborator.
+
+- Ability to be **detail oriented** and ensure work produced is of **high quality**.
+
+- Enjoying working on **multicultural teams**.
