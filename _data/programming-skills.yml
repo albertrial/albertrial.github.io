@@ -6,10 +6,6 @@
   percentage: 90
   color:
 
-- name: Tensorflow
-  percentage: 70
-  color: warning
-
 - name: Pytorch
-  percentage: 70
+  percentage: 90
   color: success

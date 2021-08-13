@@ -1,6 +1,6 @@
 ---
 name: Harry Road
-tools: [Unity, C#, Game Development]
+tools: [Unity 3D, C#, Game Development]
 image: /assets/img/harry-road/logo.png
 description: Desktop endless frogger videogame based on Harry Potter saga.
 ---

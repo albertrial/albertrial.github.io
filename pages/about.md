@@ -8,7 +8,7 @@ weight: 3
 # **About Me**
 
 Hi there! I am **{{ site.author.name }}** :wave:,<br>
-I am a computer scientist specialised in software development, cybersecurity and artificial intelligence, with special interest in machine learning, computer vision, autonomous vehicles, aeronautics and space exploration. I consider myself a responsible person, with the ability to learn and adapt quickly. I love challenges, enjoy getting things done and always try to do my best in everything I do.
+I am a computer scientist specialised in software development, cybersecurity and artificial intelligence, with special interest in deep learning and computer vision. I consider myself a responsible person, with the ability to learn and adapt quickly. I love challenges, enjoy getting things done and always try to do my best in everything I do.
 
 ## **Professional experience**
 <div class="row">
@@ -26,7 +26,7 @@ I am a computer scientist specialised in software development, cybersecurity and
 
 - Strong knowledge of **Python** with a focus on the development of machine learning and data analysis solutions.
 
-- Experience with **machine-learning frameworks** such as TensorFlow and PyTorch.
+- Experience with **PyTorch machine-learning framework**.
 
 - Broad expertise in different **AI** aspects: Computer Vision, Deep Learning, Multi-Agent Systems and Natural Language Processing.
 
