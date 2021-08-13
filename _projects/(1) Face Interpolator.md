@@ -1,7 +1,6 @@
 ---
 name: Face Interpolator
 tools: [VAE, CVAE, Deep Learning, Computer Vision, AI]
-image: /assets/img/face_interpolator/face.png
 description: Generative model for face edition software with named parameters using CVAE.
 ---
 
