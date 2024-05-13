@@ -1,9 +1,14 @@
 - title: R&D Software Engineer, HP Inc, Barcelona
   from: 2019
   to: present
-  description: Currently working at the Imaging & Printing Group of the Large Format Printing (LFP) division in HP Inc. Developing software/firmware for new products and evaluating its performance in order to provide assessment for future products.
+  description: Currently working at the Imaging & Printing Group of the Large Format Printing (LFP) division in HP Inc. Developing software/firmware for new products with quality and innovation at the helm. Designing and developing machine learning-based image processing techniques/systems. 
+
+- title: AI Research Intern, Computer Vision Center (CVC), Barcelona
+  from: 2021
+  to: 2021
+  description: Worked at Human Pose Recovery and Behavior Analysis (HuPBA) group. Research in the field of 3D reconstruction from 2D images, pushing the boundaries of the state-of-the-art in the reconstruction of 3D garment models from just a single RGB image. Publication accepted to IEEE International Conference on Automatic Face and Gesture Recognition (FG 2021) and awarded with a Google Best Poster Award.
 
 - title: Software Developer, VIDMAR, Barcelona
   from: 2018
   to: 2019
-  description: Development and maintenance of different software solutions for industries, to improve the management, traceability, control and visualization of industrial processes.
+  description: Development and maintenance of different software solutions for industries.
