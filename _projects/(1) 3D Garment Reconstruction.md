@@ -8,6 +8,7 @@ description: Deep learning model that learns garment dynamics and is able to rec
 # UV-based reconstruction of 3D garments from a single RGB image
 
 Research project done at Human Pose Recovery and Behavior Analysis (HuPBA) group from the Computer Vision Center (CVC) in Barcelona. [Paper](https://www.researchgate.net/publication/358120826_UV-based_reconstruction_of_3D_garments_from_a_single_RGB_image) accepted to IEEE International Conference on Automatic Face and Gesture Recognition (FG 2021) and [Poster](https://sergioescalera.com/wp-content/uploads/2021/12/FG2021-UV-map-garment-reconstruction-poster.pdf) awarded with a Google Best Poster Award.
+![preview](/assets/img/uv-map-3d-garment-reconstruction/logos_universitats.png)
 
 ## Introduction
 Inferring 3D shapes from a single viewpoint is an essential human vision feature extremely difficult for computer vision machines. Despite the advances in the field of 3D human reconstruction, most
@@ -22,7 +23,7 @@ We use image inpainting techniques to estimate the values of the empty spaces an
 
 ## RGB to UV Map Translation - LGGAN Architecture
 The model is based on the LGGAN architecture.
-![preview](/assets/img/uv-map-3d-garment-reconstruction/LGGAN-Overview-ConditionBody.png)
+![preview1](/assets/img/uv-map-3d-garment-reconstruction/LGGAN-Overview-ConditionBody.png)
 
 - LGGAN is conditioned on body UV map and garment UV semantic segments.
 - Global decoder G_g is responsible to predict low frequency details (overall shape).
@@ -35,6 +36,7 @@ target garment class.
 garment UV map to distinguish real data from fake.
 
 ## Class-Specific Local Generation Network
+Model also has a novel local class-specific generation network that separately constructs a generator for each semantic class:
 ![preview2](/assets/img/uv-map-3d-garment-reconstruction/LGGAN-Local Generator.png)
 
 - Shared latent code is upconvolved to form per-pixel features.
@@ -88,16 +90,20 @@ meshes.
 ![preview3](/assets/img/uv-map-3d-garment-reconstruction/LGGAN - Final Ablation Study - Qualitative.png)
 ![preview4](/assets/img/uv-map-3d-garment-reconstruction/results.png)
 
+
 ### Comparison with SMPLicit [4]
 ![preview5](/assets/img/uv-map-3d-garment-reconstruction/LGGAN - Final Comparison SMPLicit - Qualitative.png)
 
 ### References
 [1] H. Tang, D. Xu, Y. Yan, P. H. S. Torr, and N. Sebe. Local class-specific and global image-level generative
 adversarial networks for semantic-guided scene generation, CVPR, 2020.
+
 [2] M. Loper, N. Mahmood, J. Romero, G. Pons-Moll, and M. J. Black. SMPL: A skinned multi-person linear
 model. ACM Trans. Graphics (Proc. SIGGRAPH Asia), 34(6):248:1–248:16, Oct. 2015.
+
 [3] M. Madadi, H. Bertiche, W. Bouzouita, I. Guyon, and S. Escalera. Learning cloth dynamics: 3d + texture
 garment reconstruction benchmark. In Proceedings of the NeurIPS 2020 Competition and Demonstration
 Track, PMLR, volume 133, pages 57–76, 2021.
+
 [4] E. Corona, A. Pumarola, G. Alenya, G. Pons-Moll, and F. Moreno-Noguer. Smplicit: Topology-aware
 generative model for clothed people, CVPR, 2021
