@@ -1,12 +1,27 @@
-- title: R&D Software Engineer, HP Inc, Barcelona
-  from: 2019
+- title: Machine Learning Engineer, HP Inc, Barcelona
+  from: 2025
   to: present
-  description: Currently working at the Imaging & Printing Group of the Large Format Printing (LFP) division in HP Inc. Developing software/firmware for new products with quality and innovation at the helm. Designing and developing machine learning-based image processing techniques/systems. 
+  description: Started working at the Global Pricing Advanced Analytics team. Responsible for the development, deployment, and monitoring of advanced machine learning models that directly impact HP’s pricing strategies.
+
+- title: Software Engineer Tech Lead, HP Inc, Barcelona
+  from: 2023
+  to: 2025
+  description: Led the design and development of machine learning‑based systems for image processing and enhancement. Technical lead of our team: defining the architecture and roadmap of our assets, mentoring and supporting others, and always aiming to deliver scalable and maintainable solutions aligned with business goals and stakeholders.
+
+- title: Software Engineer, HP Inc, Barcelona
+  from: 2021
+  to: 2023
+  description: Development of firmware and software solutions with quality, scalability and innovation at the helm.
 
 - title: AI Research Intern, Computer Vision Center (CVC), Barcelona
   from: 2021
   to: 2021
   description: Worked at Human Pose Recovery and Behavior Analysis (HuPBA) group. Research in the field of 3D reconstruction from 2D images, pushing the boundaries of the state-of-the-art in the reconstruction of 3D garment models from just a single RGB image. Publication accepted to IEEE International Conference on Automatic Face and Gesture Recognition (FG 2021) and awarded with a Google Best Poster Award.
+
+- title: Graduate Software Engineer, HP Inc, Barcelona
+  from: 2019
+  to: 2021
+  description: Started working at the Imaging & Printing Group of the Large Format Printing (LFP) division in HP Inc.
 
 - title: Software Developer, VIDMAR, Barcelona
   from: 2018
