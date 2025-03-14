@@ -8,7 +8,7 @@ weight: 3
 # **About Me**
 
 Hi there! I am **{{ site.author.name }}** :wave:,<br>
-I am a computer scientist specialised in software development, cybersecurity and artificial intelligence, with special interest in deep learning and computer vision. I consider myself a responsible person, with the ability to learn and adapt quickly. I love challenges, enjoy getting things done and always try to do my best in everything I do.
+I am a computer scientist specialised in software development and artificial intelligence. I consider myself a responsible person, with the ability to learn and adapt quickly. I love challenges, enjoy getting things done and always try to do my best in everything I do.
 
 ## **Professional experience**
 <div class="row">
@@ -22,21 +22,21 @@ I am a computer scientist specialised in software development, cybersecurity and
 
 ## **Technical skills**
 
-- Strong knowledge of **C++** and excellent understanding of computer science fundamentals, algorithms, data structures and software architecture patterns.
+- Strong knowledge of **C++** and excellent understanding of computer science fundamentals, algorithms, data structures, software architecture patterns and object-oriented programming.
 
 - Strong knowledge of **Python** with a focus on the development of machine learning and data analysis solutions.
 
 - Experience with **PyTorch machine-learning framework**.
 
-- Broad expertise in different **AI** aspects: Computer Vision, Deep Learning, Multi-Agent Systems and Natural Language Processing.
+- Broad expertise in different **AI** fields/aspects: Computer Vision, Deep Learning, Natural Language Processing (NLP) and Large Language Models (LLMs).
+
+- Experience with **AI and software development tools/libraries** such as Git, MLflow, Hugging Face, Wandb and Pandas.
+
+- Experienced working in **SCRUM** teams and advocate of automated **CI/CD pipelines** together with **Unit and Integration tests** as a way to deliver good and reliable software.
 
 - **Cybersecurity** advanced skills: pentesting, forensics, malware analysis, intrusion detection and risk analysis. Ability to develop secure software applications.
 
-- Experienced working in **SCRUM** teams and advocate of **Unit testing** as a way to deliver good software.
-
-- Experience with **software development tools** such as Git, Jira and Jenkins.
-
-- Fair knowledge of **other programming technologies/languages/frameworks**: Java, Matlab, Android development and Game development.
+- Fair knowledge of **other programming technologies/languages/frameworks**: Java, Android development and Game development (Unity).
 
 ## **Soft skills**
 
